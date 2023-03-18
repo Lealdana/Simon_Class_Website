@@ -89,4 +89,11 @@ This will contain the default variables such as colors, breakpoint, etc.
 This will contain the styling of each individual HTML pages.
 
 ## Services
-Services pages didsplays the lsit of services that we provide. 
+
+Services pages didsplays the lsit of services that we provide.
+
+### Contact
+
+Contat page can be used to contact the company.
+
+###
